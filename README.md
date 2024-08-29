@@ -3,6 +3,8 @@
 
 Smart House IoT is a project aimed at building a smart home system using Internet of Things (IoT) technologies.
 
+This service is temporarily suspended, a visual representation is displayed in the Demo section.
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
