@@ -1,9 +1,11 @@
+### This service is temporarily suspended, a visual representation is displayed in the Demo section.
+
+
 # Smart House IoT License year project
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/cunbex/Smart-House-IOT/blob/main/LICENSE)
 
 Smart House IoT is a project aimed at building a smart home system using Internet of Things (IoT) technologies.
 
-This service is temporarily suspended, a visual representation is displayed in the Demo section.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -22,10 +24,6 @@ This service is temporarily suspended, a visual representation is displayed in t
 ## Introduction
 
 The Smart House IoT project allows you to control various devices and monitor environmental conditions in your house remotely through IoT technologies. Whether it's controlling lights, temperature, or security cameras, this project provides a flexible framework to build your smart home system.
-
-## Documentation
-
-You can find the project license year Thesis in PDF format [here](pdf/USTHB_Thesis.pdf). Keep in mind that i was obligated to write the Thesis in french and i'm too lazy to translate it to english, if you can help with that / provide a solution feel free to email me.
 
 ## Features
 
@@ -96,7 +94,7 @@ After installation, you can run the project using `npm run devstart`.
 - For the experiment to work, three repositories must be running either on the cloud or your machine: Smart-House-IOT, controller_dashboard, mosquitto_api.
 - Regarding PaaS used, i hosted the API's & website on render.com, the docker container that has MQTT/Mosquitto running on dockerHub & the database on supabase.com.
 - Additional setup is required for the experiment to work. The project is highly dependent on the `.env` file, so make sure you create your own `.env` file, feel free to email me if you have problems setting it up.
-- This is not a finished project; it's a university licensed degree project. [Website link](https://smart-house-iot.onrender.com/) (sometimes may require up to 50 seconds for the website to load).
+- This is not a finished project regarding optimizations & performances.
 - A single-board computer is required.
 - Single-board computer code is on the controller-dashboard repository: [controller_dashboard](https://github.com/cunbex/controller_dashboard).
 - Mosquitto API code is on the mosquitto_api repository: [mosquitto_api](https://github.com/cunbex/mosquitto-api).
